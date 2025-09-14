@@ -32,7 +32,7 @@
 
   <!-- Projects Showcase -->
 ## 🐍 Snake eating my contributions
-![snake gif](https://github.com/deepak-mali-git/deepak-mali-git/blob/output/snake.svg)
+![snake gif](https://github.com/deepak-mali-git/deepak-mali-git/blob/output/github-snake-dark.svg)
 
 </div>
 
